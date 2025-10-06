@@ -1,4 +1,4 @@
-# Hi, i'm arushi 🐍
+# Hi, i'm arushi 
 
 > *building the future, one commit at a time*  
 > *also probably debugging at 3am*
@@ -58,9 +58,9 @@ building stuff that matters. breaking things. fixing them. rinse & repeat.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🐍
+## hmmm
 
-![snake gif](https://github.com/arrrzushi/arrrzushi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/arrrzushi/arrrzushi/output/github-contribution-grid-snake.svg)
 
 
 

@@ -1,7 +1,5 @@
 # Hi, i'm arushi 
 
-> *building the future, one commit at a time*  
-> *also probably debugging at 3am*
 
 ```python
 while True:

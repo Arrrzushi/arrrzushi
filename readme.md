@@ -14,7 +14,7 @@ while True:
 
 ## what i do
 
-**full-stack dev** | **ai enthusiast** | **web3 builder** | **game dev**
+**full-stack dev** | **ai things** | **web3 exploring** | **game dev(my fav so far)**
 
 building stuff that matters. breaking things. fixing them. rinse & repeat.  
 

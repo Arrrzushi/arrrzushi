@@ -60,7 +60,7 @@ building stuff that matters. breaking things. fixing them. rinse & repeat.
 
 ## hmmm
 
-![snake gif](https://raw.githubusercontent.com/arrrzushi/arrrzushi/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/arrrzushi/arrrzushi/output/github-contribution-grid-snake-dark.svg)
 
 
 
